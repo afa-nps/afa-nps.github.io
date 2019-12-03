@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NPS Project Map</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Site Locations </name>
+      <Placemark>
+        <name>Highland Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4657918,38.9303911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Idlewild</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8025598,43.886957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bruce's Beach]]></name>
+        <description>Also known as Manhattan Beach</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4109089,33.8847361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joe Wheeler State Park</name>
+        <description>Joe Wheeler State Park Negro Recreation Area</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -87.3455753,34.8172997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mon Louis Island</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.1405558,30.3674218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eastlake Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -112.0521082,33.4492229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harding Spring</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.7372677,36.4055743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Townsend Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.0324146,34.2388671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Murray's Dude Ranch (Overall Wearing Ranch)
+
+]]></name>
+        <description>In Apple Valley </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -117.1858759,34.5008311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Monica Well </name>
+        <description>Santa Monica Well (Inkwell)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4911912,34.0194543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka Villa</name>
+        <description>Val Verde (Eureka Villa)                                               What it is now:  https://www.scvadventureplay.org/eureka-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -118.6563818,34.4429142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacific Beach Club (Huntington Beach)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.9988026,33.6594835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muse-A-While Ranch </name>
+        <description>Not exact location but in this town. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -117.2286478,33.7825194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Hills (Resort)/Camp Nizhoni</name>
+        <description>http://lincolnhillscares.org/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -105.4583293,39.9224869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lee Haven Beach Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -73.6446834,41.0001646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosedale Beach and Hotel Resort</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.2072843,38.5957799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suburban Gardens Amusement Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9285753,38.8999316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langston Golf Course </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.969957,38.89862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Beach (Insurance Beach)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4441669,30.574722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler Beach (Frank B. Butler State Park)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.2670131,29.7983039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John U. Lloyd Beach (now Dr. Von D. Mizell-Eula Johnson State Park)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1114267,26.071154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosamond Johnson Beach at Perdido Key</name>
+        <description>Johnson Beach National Seashore                         https://www.pnj.com/story/news/2019/04/18/rosamond-johnson-beach-nps-waive-fees-annual-commemoration/3507985002/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4136111,30.2997222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Virginia Key Beach </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.1559039,25.7361041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bethune Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.844768,28.941441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paradise Park at Silver Springs</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.0537306,29.2128471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manhattan Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.3986964,30.3669074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wingate Beach (Exact location unsure)</name>
+        <description>(In Pensacola)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -87.2169149,30.421309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wilbur-By-The-Sea</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.9574023,29.1289351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Talbot Island State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4140958,30.4664093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tomoka State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.0839179,29.3274496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Pickens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.2991392,30.3288111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Florida Caverns State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.2318014,30.8130444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Myakka River State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.2622817,27.188282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Beasley Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.58403,30.393894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jim Woodruff Park Area</name>
+        <description>Now nature area near Jim Woodruff Dam </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8612782,30.7093121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magnolia Lake State Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.0175529,29.8237886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[O'Leno State Park & River Rise]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.6034626,29.919494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doe Lake Campground - Ocala National Forest</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.8201582,29.0405323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>George Washington Carver Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.6649124,34.1390286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Georgia Veterans State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.89821,31.958425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Andrew Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.4214849,31.0177338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.9575729,32.8022159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tompkins Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.1153217,32.0590411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yam Grandy State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.3489188,32.6039978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yargo State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.7302587,33.9683701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp John Hope </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.866453,32.457487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keg Creek State Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.2991332,33.6346169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washington Park Pool </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -87.6145907,41.7926286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Booker T Washington State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.1754191,35.1123607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fox Lake </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.016058,41.6235277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bransford Summer Resort</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.0836996,37.1985531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherokee State Resort Park (located within Kenlake State Resort Park)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.1383652,36.7596191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chickasaw Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.8317826,38.2418795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Douglass Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5017504,38.0705533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuart Nelson Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -88.6570069,37.090898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baxter Square Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.7700186,38.2547946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Club No. 1 (Tyrone Park and Picnic Grounds)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.8363379,38.032853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Young Park and Community Center</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.4843818,38.0430755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.9528545,30.0698144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicot State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2877613,30.78974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Bistineau State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.3823251,32.4414164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brooks Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.1721989,30.4337661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A. L. Davis Park (Shakespeare Park)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0904869,29.9385497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hardin Playground</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0663079,29.9822405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pontchartrain Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0428104,30.0188212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln and Johnson Park </name>
+        <description>Were across from each other. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -90.1145357,29.9619664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rock Rest</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.6761111111111,43.1055555555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cummings' Guest House]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.3752777777778,43.5183333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle Harbor Resort</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.686074,38.5678987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Brown's Grove]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.5002272,39.1508476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twilight Beach (Shirley K Hotel)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7991459,38.2626939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washington Park (Notely Hall)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0272157,38.7750246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Columbia Beach </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.5011524,38.8194468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oyster Harbor</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4652362,38.9245578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arundel on the Bay</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4635387,38.9186542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carr’s and Sparrow’s  Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4713484,38.9587237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Highlands</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4643638,38.9316789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beechwood Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.5327079,39.1075817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shadyside Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.609805,39.2626255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cedar Haven </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7030886,38.7029884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galesville</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.5435702,38.8431707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henry’s Beach-Deal Island </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.8988056,38.1885278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longview Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8077461,38.2934616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mill Point </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8330243,38.3370714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Round Bay</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.5406183,39.0588558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandy Point State Park-Beach Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.3998925,39.0145464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Admirathoria (Upper Notley Hall )</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0172148,38.775407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wilmer's Park]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7980381,38.6754761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shearer Cottage</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.566344,41.461456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inkwell Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.5534248,41.4521888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Atwater</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0512556,42.2394199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Paradise</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.7509005,45.686271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gordon Beach Inn </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.699465,41.8260409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodland Park Resort</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.1812053,42.4888856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Val Du Lakes Farm Resort</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.4624452,43.6708315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pitchford's La Maison ]]></name>
+        <description>Former Location</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -86.2872081,42.2796446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rainbow Inn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.96,45.3580555555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sugar Island</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.1441666666667,42.0913888888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adney Lake</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.0124822,46.6317409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northern Lights</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3120365,46.9003844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pokegama Lake</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0427126,45.846938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gulfside Assembly</name>
+        <description><![CDATA[<img src="https://doc-0c-3c-mymaps.googleusercontent.com/untrusted/hostedimage/itmo7jq35d3qccu8a8rek307l8/jm7an4u2jdfqcu5ejma3tltdk8/1569974400000/WV2Tl3TMAtIJ2d8TN6STm8PvPw5ZexZf/11231541745558830066/1AF2TALqlplqvCXC7QHHPgBx_Lk4IhcwOtQOVDgZCfAmioThNwi2q5sE7QbS1L3uQlsCm1mEa3jQDkXwvUdunrdlbrMdKWrahpbi3wNJva4263Vgw0uCdAJXhOAwjM06ppSzUOVJLwIvHCxSEoxReIKFJoC0pcrXJFKOxewAXBskTLQwZ7nv6L5_VSYOzANt0RYYONZurvXA_dNVrYJHruOcSM7PxU0Mo3gh2oNXMFUf1jhGxIxoeJWYGeRRfYAs7m2vbTOzTHegBCJqUss299if7q2BuZtHssw?fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-10-3c-mymaps.googleusercontent.com/untrusted/hostedimage/itmo7jq35d3qccu8a8rek307l8/av0tmr0fvo0mo87b36b1dccnlo/1569974400000/WV2Tl3TMAtIJ2d8TN6STm8PvPw5ZexZf/11231541745558830066/1AF2TALrUALl1Xh6SXBx78JcBZojesHnEJnWaRkfUv8QpzukCAdsO4W8kc1F2xcDNLESDYk6QZ3X5KuPrc65TPQigkh3Bgm8SEmEjAHXvj5Vjrj66Uoz8Q2avrgZE_D7cJJh_gDX_JL1219l-a8D9dmSVV0YLeAtBRPDiB_jPZXj8Mz1y__RPBCjMVTWEEEUN8OWRGEpo34KNoMx4aJdPvnGib-hRjyymtobmUv7nTlZhP3_J7B72fIXbFClJul6_YHgqN3numtcuBiAEBLaTe8pnSPk7JjI_iw?fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0c-3c-mymaps.googleusercontent.com/untrusted/hostedimage/itmo7jq35d3qccu8a8rek307l8/jm7an4u2jdfqcu5ejma3tltdk8/1569974400000/WV2Tl3TMAtIJ2d8TN6STm8PvPw5ZexZf/11231541745558830066/1AF2TALqlplqvCXC7QHHPgBx_Lk4IhcwOtQOVDgZCfAmioThNwi2q5sE7QbS1L3uQlsCm1mEa3jQDkXwvUdunrdlbrMdKWrahpbi3wNJva4263Vgw0uCdAJXhOAwjM06ppSzUOVJLwIvHCxSEoxReIKFJoC0pcrXJFKOxewAXBskTLQwZ7nv6L5_VSYOzANt0RYYONZurvXA_dNVrYJHruOcSM7PxU0Mo3gh2oNXMFUf1jhGxIxoeJWYGeRRfYAs7m2vbTOzTHegBCJqUss299if7q2BuZtHssw?fife https://doc-10-3c-mymaps.googleusercontent.com/untrusted/hostedimage/itmo7jq35d3qccu8a8rek307l8/av0tmr0fvo0mo87b36b1dccnlo/1569974400000/WV2Tl3TMAtIJ2d8TN6STm8PvPw5ZexZf/11231541745558830066/1AF2TALrUALl1Xh6SXBx78JcBZojesHnEJnWaRkfUv8QpzukCAdsO4W8kc1F2xcDNLESDYk6QZ3X5KuPrc65TPQigkh3Bgm8SEmEjAHXvj5Vjrj66Uoz8Q2avrgZE_D7cJJh_gDX_JL1219l-a8D9dmSVV0YLeAtBRPDiB_jPZXj8Mz1y__RPBCjMVTWEEEUN8OWRGEpo34KNoMx4aJdPvnGib-hRjyymtobmUv7nTlZhP3_J7B72fIXbFClJul6_YHgqN3numtcuBiAEBLaTe8pnSPk7JjI_iw?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.3802766,30.2865135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carver State Point Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.6804455,33.844903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Placid</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.0710813,38.3814708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Excelsior Springs</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.2224719,39.341744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lincoln Electric Park</name>
+        <description>Where it use to be </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -94.5613355,39.0888124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watermelon Hill at Swope Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -94.5373105,39.0078963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blind Boone Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -93.748887,38.7631395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake of the Ozarks State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -92.5711059,38.0790766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barrett Beach</name>
+        <description>Former location</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0940795,40.4390612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicken Bone Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.4351169,39.3538912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morris Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.6365472,39.3084489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Cape May Hotel</name>
+        <description>Where it use to be (demolished)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -74.9242862,38.9338973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Brigatine</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.354498,39.4143016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freeway Golf Course</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.0271849,39.7539464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shady Rest Golf and Country Club</name>
+        <description>Renamed, but original “Shady Rest” building still on location.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -74.3759749,40.6570961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Guilford Bower</name>
+        <description>http://drstephenrobertson.com/digitalharlemblog/maps/summer-camps-for-1920s-harlem/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0100363,41.7459204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peg Leg Bates Country Club</name>
+        <description>Now “Mountain Valley Resort” </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -74.3271989,41.884928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sag Harbor Hills</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.2803352,40.9990894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenwood Forest Farms</name>
+        <description>Where it use to be. Also known as “The Colony”.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -74.26489,41.2432793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[King's Lodge]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.5193993,41.4858167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ninevah Beach-Sag Harbor</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.2709779,40.9984167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chowan Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7143934,36.2140457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammocks Beach State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.141023,34.6713782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jones Lake State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.5958905,34.6831766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Topsail Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.43163,34.4901665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean City Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4913555,34.4565561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reedy Creek State Park (Umstead State Park)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.7596264,35.8347975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Island- Wrightsville Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.7950725,34.2067567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Whispering Pines</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.7509172,35.831996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pearl Street Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.8375578,35.2109848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hillside Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.902903,35.9809119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lyon Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.9189233,35.9885322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Negro Recreation Park (Gordon Street)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9794281,35.9728281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Chavis Memorial Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.628977,35.769431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nocho Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.7684695,36.0632705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Happy Hill Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2365902,36.0826541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kimberley Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2514973,36.1177353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fourteenth Street School</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2222706,36.1123594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meadowbrook Country Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.568973,35.659557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seabreeze at Freeman Beach </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.8804875,34.0636814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cedar Country Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.8603047,40.0745672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clearview Golf Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -81.2477531,40.7739772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Murray State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -97.0821157,34.0715756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elliott Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.3681114,35.7599385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Platt National Park</name>
+        <description>Merge with other land to form the now “Chickasaw National Recreation Area” </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -97.0064043,34.4615433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Roman Nose State Park, Lodge & Golf Course]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.4251177,35.9362621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hillside Inn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.1817547,41.0030522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fairview Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.5515604,40.4056531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlantic Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.7164064,33.8026725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magnolia Beach Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.0873325,33.4826052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Greenwood</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.0161903,34.2512159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campbell Pond</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5297804,33.8187687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mill Creek Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.5237101,33.7343008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pleasant Ridge County Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -82.479864,35.0863744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huntington Beach State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.0597786,33.5156094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenwood Park </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.7366418,36.1448291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelby County Negro State Park </name>
+        <description>Now called T.O. Fuller State Park </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -90.114413,35.063541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Booker T Washington State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -85.1754191,35.1123607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robert R. Church Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0485525,35.1380414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hadley Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8207789,36.1654219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Douglass Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.9521532,35.1766691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klondike Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0144281,35.1665778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brown Beach</name>
+        <description>Segregated section of Seawall </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -68.2957026,44.2576533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hill Street Negro Park</name>
+        <description>Now called Grigg Park</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7944115,32.7971361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oak Cliff Negro Park</name>
+        <description>Now called Eloise Lundy Park </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.8064035,32.755977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wahoo Park</name>
+        <description>Juanita Craft Park section also </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7374407,32.7733192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Dallas Negro Park</name>
+        <description>Booker T. Washington Park/Wheatley Park</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7591855,32.7649004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Exline Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7606494,32.7568768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rochester Park</name>
+        <description>William Blair Jr. Park</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.745958,32.740562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eighth Street Negro Park</name>
+        <description>Moore Park</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.7932398,32.748223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Hampton Park</name>
+        <description>Mattie Nash-Myrtle Davis Park</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -96.8548673,32.7876994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tyler State Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.2956984,32.4807153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emancipation Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.3643926,29.7357077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finnigan Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -95.3197895,29.7693621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodlake Country Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.3458943,29.4846062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Happyland Lake</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.2145187,37.3554164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Shore </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.2916485,37.0375661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buckroe Beach and Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.2908049,37.0402512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Goodwill (Prince William Forest Park)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3828498,38.5910053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winonah Camp</name>
+        <description>Historic Winonah Camp location </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -78.792685,37.336733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.1846096,36.9299394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elkwallow</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.3090704,38.7386371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lewis Mountain Campground</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -78.4780721,38.4366945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosquito Beach</name>
+        <description><![CDATA[<img src="https://doc-0g-3c-mymaps.googleusercontent.com/untrusted/hostedimage/itmo7jq35d3qccu8a8rek307l8/dj6t2do6kcmhccf23mpum5u0dg/1569974400000/WV2Tl3TMAtIJ2d8TN6STm8PvPw5ZexZf/11231541745558830066/1AF2TALqTvnZ65gNPSHELoRyyMGUUuMQomuOdRi9OBKUL-hoipXzSwNqpar4B3cNdqLyCoZ5co64o8QOHWDvOhlZ5IziWHVkmchgQmdWYaZbqi_mH7zF8uTt5j-ReXrt8qzddfdoSy7zweUF_i_ZBfwfHN_UTd8TsuU3XhegZAkGol0g1ZjUiGStmlY16Ne9OUgJQW2uqkljsud8iC-EhCGDCINJz33DrHjBxyQE1FQzBbdfhlITqGORb-lBKHeXzYJ5avAr1cCyUyK21ChZw8pVsetlXc5dDuA?fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://doc-0g-3c-mymaps.googleusercontent.com/untrusted/hostedimage/itmo7jq35d3qccu8a8rek307l8/dj6t2do6kcmhccf23mpum5u0dg/1569974400000/WV2Tl3TMAtIJ2d8TN6STm8PvPw5ZexZf/11231541745558830066/1AF2TALqTvnZ65gNPSHELoRyyMGUUuMQomuOdRi9OBKUL-hoipXzSwNqpar4B3cNdqLyCoZ5co64o8QOHWDvOhlZ5IziWHVkmchgQmdWYaZbqi_mH7zF8uTt5j-ReXrt8qzddfdoSy7zweUF_i_ZBfwfHN_UTd8TsuU3XhegZAkGol0g1ZjUiGStmlY16Ne9OUgJQW2uqkljsud8iC-EhCGDCINJz33DrHjBxyQE1FQzBbdfhlITqGORb-lBKHeXzYJ5avAr1cCyUyK21ChZw8pVsetlXc5dDuA?fife</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.9822838,32.6728088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pinkett's Beach]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.4113444,36.9677251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Bay Beach (Lem’s Bright Beach)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.2775723,36.9490727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Lake Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.332078,36.743541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plantation Beach </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.2845911,36.7338783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Breeze Beach and Amusement Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.1190384,36.914874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seaview Beach </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.0713004,36.9138415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rockaway Beach </name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -75.9667815,36.815286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tylers Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.6649268,37.0827315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Log Cabin Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.63387,37.2113487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mark Haven Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7362369,37.7985448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yellow Sulphur Springs</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.3972222222222,37.1772222222222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Durant Bayside Cottages</name>
+        <description>Location of “Where to write”/owner’s place.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.3122967,36.8157653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montgomery Hall Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.0914854,38.143287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jennie Dean Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.088168,38.8432304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Pasture Park</name>
+        <description>Longdale Recreation Area</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.7031758,37.7897359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prince Edward Lake</name>
+        <description>Price Edward State Park for Negroes (1950), Price Edward-Goodwin Lake State Park(1976), Twin Lakes State Park (1986)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -78.2732371,37.1760314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kesler Mill </name>
+        <description>Garst Mill/Salem Roller Mills</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0333666666667,37.3126333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Washington-Carver (4-H Camp)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.9700054,38.0097396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goplana</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.7760219,43.6288462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Ivanhoe</name>
+        <description>https://journaltimes.com/news/local/lake-ivanhoe-an-african-american-landmark/article_6eeb87f0-33da-5b44-b34e-e97e9c4b233c.html    https://shorefrontjournal.wordpress.com/2014/06/09/lake-ivanhoe-revisited/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3484825,42.5831511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liberty Paradise Park</name>
+        <description>in Liberty City section of Miami, exact location unknown</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -80.2175947,25.8319955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Elsinore</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -117.3378549,33.6729109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Wabash</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.249539,42.0590662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camp Mueller</name>
+        <description>https://www.ohio.com/article/20160511/NEWS/305119133     http://www.pwacleveland.org/camp-mueller</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -81.5615884,41.2084077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunting Island State Park Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -80.4375199,32.3707685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
